@@ -5,3 +5,10 @@
     background-color: steelblue;
 
 }
+.cats p a {
+    font-weight: bold;
+
+}
+.dogs p a {
+    font-style: italic;
+}
